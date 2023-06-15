@@ -9,4 +9,4 @@
 ## usage
 скачиваете сам код, затем устанавливаете обновление и пакеты, нажимаете npm start и усе
 
-[manyyyyy gifs :)]() 
+[нажмите сюда)](https://neobis-front-auth-aln8gf0ft-dosymuss-s-team.vercel.app/) 
